@@ -6,6 +6,6 @@ Este projeto Cada aluno foi sorteado um país onde criariamos as tela dos confro
 # Projeto executado
 
 ## imagem 1
-![Screenshot_2022-12-06-21-53-31-022_com example diceroller](https://user-images.githubusercontent.com/102106531/206068267-0c1d746e-2c40-44af-b50c-9164760d490a.jpg)
+![Screenshot_2022-12-06-22-56-49-009_com has copa](https://user-images.githubusercontent.com/102106531/206069195-56921aab-8a25-4c04-bf7e-262c3cb8c2ed.jpg)
 
 
